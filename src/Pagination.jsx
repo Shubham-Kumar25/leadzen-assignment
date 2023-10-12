@@ -9,7 +9,7 @@ const Pagination = ({
 }) => {
   const totalPages = Math.ceil(totalItems / itemsPerPage);
 
-  // Determine whether previous and next buttons should be disabled
+
   const isPreviousDisabled = currentPage === 1;
   const isNextDisabled = currentPage === totalPages;
 
