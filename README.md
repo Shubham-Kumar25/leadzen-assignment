@@ -46,7 +46,6 @@ The User Management Dashboard is built using React.js and displays user data fet
 
 - React.js
 - Tailwind CSS
-- Axios for fetching API data
 
 ## Contributing
 
@@ -55,10 +54,3 @@ The User Management Dashboard is built using React.js and displays user data fet
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can create a `README.md` file in your repository and paste this content into it. Remember to adjust the content to reflect any specific details of your project.
